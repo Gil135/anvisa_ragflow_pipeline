@@ -1,0 +1,23 @@
+# Variáveis de ambiente
+.env
+.env.local
+.env.*.local
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Logs
+logs/
+*.log
+
+# PDFs (opcional)
+data/pdf/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
