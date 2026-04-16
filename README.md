@@ -58,8 +58,8 @@ Edite as linhas em extrair_atos_pdfs.py para download de todas os PDFs
 ``` 
 extrair_atos_pdfs.py
 linhas
-#173 def carregar_categorias_json(nome_arquivo='data/json/categorias.json'):#provisorio'data/json/atos_categorias.json'
-#367  dados_categorias = carregar_categorias_json('data/json/categorias.json') #provisorio'data/json/atos_categorias.json'
+#173 def carregar_categorias_json(nome_arquivo='data/json/categorias.json'): #altere para 'data/json/atos_categorias.json'
+#367  dados_categorias = carregar_categorias_json('data/json/categorias.json') # altere para 'data/json/atos_categorias.json'
 ```
 
 
