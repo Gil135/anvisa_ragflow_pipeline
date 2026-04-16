@@ -14,7 +14,7 @@ __pycache__/
 
 # PDFs (opcional)
 data/pdf/
-data/logs/
+
 
 # IDE
 .vscode/
