@@ -36,13 +36,13 @@ Passo 3: Executar (2-5 horas)
 ```
 
 ✅ Checklist de Execução  
- Ambiente virtual criado  
- Dependências instaladas  
- .env configurado com credenciais  
- Conexão RAGFlow testada  
- Orquestrador executado  
- Logs monitorados  
- PDFs verificados em RAGFlow  
+    Ambiente virtual criado  
+    Dependências instaladas  
+    .env configurado com credenciais  
+    Conexão RAGFlow testada  
+    Orquestrador executado  
+    Logs monitorados  
+    PDFs verificados em RAGFlow  
 
 
 📞 Próximos Passos
@@ -54,4 +54,4 @@ Verificar: Acessar http://localhost:9380 → Datasets → Documentos
 Status: ✅ Pronto para Execução  
 Tempo Total: ~2-5 horas  
 Complexidade: Média  
-Suporte: Verifique logs/ em caso de erro  
+Suporte: Verifique logs/ em caso de erro
