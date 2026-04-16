@@ -1,5 +1,4 @@
 """
-download_pdfs_anvisa_v4.py
 ==========================
 Script para fazer download de PDFs da ANVISA.
 Captura nova aba aberta ao clicar no botão PDF.
