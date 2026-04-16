@@ -10,7 +10,6 @@ __pycache__/
 *.so
 
 # Logs
-logs/
 *.log
 
 # PDFs (opcional)
