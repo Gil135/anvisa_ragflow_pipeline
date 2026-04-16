@@ -7,7 +7,14 @@ Passo 1: Setup (5 minutos)
 # Clonar/preparar projeto
 cd anvisa_ragflow_pipeline
 
+# Criar ambiente virtual (recomendado)
+python3 -m venv venv
+source venv/bin/activate  # Linux/Mac
+# ou
+venv\Scripts\activate  # Windows
+
 # Instalar dependências
+
 pip install selenium requests python-dotenv webdriver-manager
 # Ou usar requirements.txt
 pip install -r requirements.txt
