@@ -1,117 +1,102 @@
+import requests
+import json
+import logging
 import os
-import chardet
-import shutil
-from pathlib import Path
+from dotenv import load_dotenv
 
-def verificar_integridade_arquivo(caminho_arquivo):
-    """Verifica se o arquivo existe e não está corrompido."""
-    if not os.path.exists(caminho_arquivo):
-        return False, "Arquivo não encontrado."
-    try:
-        with open(caminho_arquivo, 'rb') as f:
-            f.read(1024)  # Tenta ler um pouco
-        return True, "Arquivo íntegro."
-    except Exception as e:
-        return False, f"Arquivo corrompido: {str(e)}"
+load_dotenv()
 
-def validar_encoding(caminho_arquivo):
-    """Valida se o arquivo está em UTF-8."""
-    with open(caminho_arquivo, 'rb') as f:
-        raw_data = f.read()
-    detected = chardet.detect(raw_data)
-    if detected['encoding'] == 'utf-8':
-        return True, "Encoding UTF-8 válido."
+# ===== IMPORTAR CONFIGURAÇÕES DO .env =====
+from config import (
+    RAGFLOW_BASE_URL,
+    RAGFLOW_API_KEY,
+    DATASET_ID,
+  
+)
+
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
+
+print("=" * 60)
+print("🔍 DIAGNÓSTICO RAGFlow")
+print("=" * 60)
+
+print(f"\n✓ Configurações carregadas:")
+print(f"  - URL: {RAGFLOW_BASE_URL}")
+print(f"  - API_KEY: {RAGFLOW_API_KEY[:20]}...")
+print(f"  - DATASET_ID: {DATASET_ID}")
+
+# Teste 1: Conexão
+print("\n[1/4] Testando conexão...")
+try:
+    response = requests.get(f"{RAGFLOW_BASE_URL}/health", timeout=5)
+    print(f"  ✓ Conexão OK (Status: {response.status_code})")
+except Exception as e:
+    print(f"  ✗ ERRO: {e}")
+    print(f"  → RAGFlow não está respondendo em {RAGFLOW_BASE_URL}")
+    exit(1)
+
+# Teste 2: Autenticação
+print("\n[2/4] Testando autenticação...")
+headers = {'Authorization': f'Bearer {RAGFLOW_API_KEY}'}
+try:
+    response = requests.get(
+        f"{RAGFLOW_BASE_URL}/api/v1/datasets",
+        headers=headers,
+        timeout=5
+    )
+    if response.status_code == 200:
+        print(f"  ✓ Autenticação OK")
     else:
-        return False, f"Encoding detectado: {detected['encoding']}. Recomenda-se converter para UTF-8."
+        print(f"  ✗ ERRO: Status {response.status_code}")
+        print(f"  → Resposta: {response.text[:200]}")
+except Exception as e:
+    print(f"  ✗ ERRO: {e}")
 
-def dividir_arquivo_grande(caminho_arquivo, tamanho_max=10*1024*1024):  # 10MB
-    """Divide arquivos grandes em partes menores."""
-    tamanho = os.path.getsize(caminho_arquivo)
-    if tamanho <= tamanho_max:
-        return [caminho_arquivo], "Arquivo não precisa ser dividido."
-    
-    partes = []
-    with open(caminho_arquivo, 'r', encoding='utf-8') as f:
-        conteudo = f.read()
-    
-    # Dividir por linhas, aproximadamente
-    linhas = conteudo.split('\n')
-    parte_atual = []
-    tamanho_parte = 0
-    num_parte = 1
-    
-    for linha in linhas:
-        parte_atual.append(linha)
-        tamanho_parte += len(linha.encode('utf-8'))
-        if tamanho_parte >= tamanho_max:
-            parte_caminho = f"{caminho_arquivo}_parte_{num_parte}.txt"
-            with open(parte_caminho, 'w', encoding='utf-8') as pf:
-                pf.write('\n'.join(parte_atual))
-            partes.append(parte_caminho)
-            parte_atual = []
-            tamanho_parte = 0
-            num_parte += 1
-    
-    if parte_atual:
-        parte_caminho = f"{caminho_arquivo}_parte_{num_parte}.txt"
-        with open(parte_caminho, 'w', encoding='utf-8') as pf:
-            pf.write('\n'.join(parte_atual))
-        partes.append(parte_caminho)
-    
-    return partes, f"Arquivo dividido em {len(partes)} partes."
+# Teste 3: Dataset existe
+print("\n[3/4] Verificando dataset...")
+try:
+    response = requests.get(
+        f"{RAGFLOW_BASE_URL}/api/v1/datasets/{DATASET_ID}",
+        headers=headers,
+        timeout=5
+    )
+    if response.status_code == 200:
+        print(f"  ✓ Dataset existe")
+        data = response.json()
+        print(f"    Documentos no dataset: {data.get('data', {}).get('doc_count', '?')}")
+    else:
+        print(f"  ✗ ERRO: Status {response.status_code}")
+        print(f"  → Dataset não encontrado ou erro na API")
+except Exception as e:
+    print(f"  ✗ ERRO: {e}")
 
-def testar_upload_simulado(caminho_arquivo):
-    """Simula teste de upload com diferentes configurações (mock)."""
-    # Simulação: assume erro se página > 100000000
-    try:
-        with open(caminho_arquivo, 'r', encoding='utf-8') as f:
-            linhas = f.readlines()
-        num_paginas = len(linhas)  # Simulação simplificada
-        if num_paginas > 100000000:
-            return False, f"Erro simulado: Página {num_paginas} excede limite."
-        return True, "Upload simulado bem-sucedido."
-    except Exception as e:
-        return False, f"Erro no upload simulado: {str(e)}"
+# Teste 4: Upload teste
+print("\n[4/4] Testando upload de documento...")
+try:
+    # Criar documento de teste
+    doc_test = {
+        'name': 'TESTE INM 999/2099',
+        'content': 'Este é um documento de teste para verificar se o RAGFlow está recebendo uploads.',
+        'metadata': {'tipo': 'TEST', 'categoria': 'TESTE'}
+    }
+    
+    response = requests.post(
+        f"{RAGFLOW_BASE_URL}/api/v1/datasets/{DATASET_ID}/documents",
+        headers={'Authorization': f'Bearer {RAGFLOW_API_KEY}', 'Content-Type': 'application/json'},
+        json={'documents': [doc_test]},
+        timeout=10
+    )
+    
+    if response.status_code in [200, 201]:
+        print(f"  ✓ Upload OK!")
+        print(f"    Resposta: {response.json()}")
+    else:
+        print(f"  ✗ ERRO: Status {response.status_code}")
+        print(f"    Resposta: {response.text[:500]}")
+except Exception as e:
+    print(f"  ✗ ERRO: {e}")
 
-def gerar_relatorio(caminho_arquivo):
-    """Gera relatório de diagnóstico completo."""
-    relatorio = f"Relatório de Diagnóstico para {caminho_arquivo}\n\n"
-    
-    # Verificar integridade
-    ok, msg = verificar_integridade_arquivo(caminho_arquivo)
-    relatorio += f"Integridade: {msg}\n"
-    if not ok:
-        return relatorio + "\nCorreção sugerida: Verifique o arquivo e tente novamente.\n"
-    
-    # Validar encoding
-    ok, msg = validar_encoding(caminho_arquivo)
-    relatorio += f"Encoding: {msg}\n"
-    if not ok:
-        relatorio += "Correção sugerida: Converta o arquivo para UTF-8 usando ferramentas como iconv.\n"
-    
-    # Dividir se grande
-    partes, msg = dividir_arquivo_grande(caminho_arquivo)
-    relatorio += f"Divisão: {msg}\n"
-    if len(partes) > 1:
-        relatorio += "Correção sugerida: Use as partes divididas para upload.\n"
-    
-    # Testar upload
-    for parte in partes:
-        ok, msg = testar_upload_simulado(parte)
-        relatorio += f"Teste de upload para {parte}: {msg}\n"
-        if not ok:
-            relatorio += "Correção sugerida: Reduza o tamanho do arquivo ou ajuste configurações de chunking no RAGFlow.\n"
-    
-    relatorio += "\nPossíveis causas do erro no RAGFlow:\n"
-    relatorio += "1. Arquivo corrompido: Verificado acima.\n"
-    relatorio += "2. Encoding incorreto: Verificado acima.\n"
-    relatorio += "3. Arquivo muito grande: Dividido se necessário.\n"
-    relatorio += "4. Configuração de chunking: Teste com partes menores.\n"
-    relatorio += "5. Falta de dependências: Verifique instalação do RAGFlow v0.24.0.\n"
-    
-    return relatorio
-
-# Exemplo de uso
-if __name__ == "__main__":
-    caminho = input("Digite o caminho do arquivo: ")
-    print(gerar_relatorio(caminho))
+print("\n" + "=" * 60)
+print("✅ Diagnóstico concluído")
+print("=" * 60)
