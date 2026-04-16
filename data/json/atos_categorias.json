@@ -1,0 +1,1662 @@
+{
+  "data_extracao": "2026-04-16 00:12:23",
+  "total_categorias": 18,
+  "total_resenhas": 305,
+  "categorias": [
+    {
+      "numero": 1,
+      "titulo": "AGROTÓXICOS",
+      "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=310&cod_menu=9431&letra=AGROT%D3XICOS&co_tematica=24954850",
+      "total_resenhas": 50,
+      "resenhas": [
+        {
+          "numero": 1,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 437, de 08/04/2026\nDispõe sobre a alteração de monografias de ingredientes ativos na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000437&seqAto=000&valorAno=2026&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 2,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 434, de 02/04/2026\nDispõe sobre a alteração de monografia na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000434&seqAto=000&valorAno=2026&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 3,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 425, de 11/02/2026\nDispõe sobre a inclusão da Monografia do ingrediente ativo E35 - Eucalyptus Globulus na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000425&seqAto=000&valorAno=2026&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 4,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 424, de 11/02/2026\nDispõe sobre a alteração da Monografia do ingrediente ativo A72 - Ácido Nonanoico na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000424&seqAto=000&valorAno=2026&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 5,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 423, de 11/02/2026\nDispõe sobre a inclusão da Monografia do ingrediente ativo O24 - Ocimum Gratissimum na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000423&seqAto=000&valorAno=2026&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 6,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 422, de 11/02/2026\nDispõe sobre a alteração da Monografia do ingrediente ativo T59 - Taninos na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000422&seqAto=000&valorAno=2026&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 7,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada Anvisa nº 1.006, de 17/12/2025 (*)\nDispõe sobre requisitos complementares para otimização de análise de petições de produtos técnicos por equivalência, quanto aos perfis toxicológicos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00001006&seqAto=000&valorAno=2025&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 8,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 421, de 22/12/2025\nDispõe sobre a alteração de monografia na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000421&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 9,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada Anvisa nº 1.005, de 17/12/2025\nDispõe sobre a análise otimizada de petições para avaliação e classificação toxicológica de produto formulado obtido a partir de produto técnico não equivalente de ingrediente ativo já registrado e dá outras providências.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00001005&seqAto=000&valorAno=2025&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 10,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 420, de 19/12/2025\nDispõe sobre a alteração de monografias de ingredientes ativos na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000420&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 11,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 417, de 17/12/2025\nDispõe sobre a alteração da Monografia do ingrediente ativo T84 - Thymus Vulgaris na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000417&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 12,
+          "titulo": "À ENTRAR EM VIGORResolução da Diretoria Colegiada Anvisa nº 998, de 21/11/2025\nDispõe sobre diretrizes para a Avaliação do Risco da Exposição de Operadores, Trabalhadores, Residentes e Transeuntes aos agrotóxicos, produtos de controle ambiental, afins e bioinsumos de uso fitossanitário. Nota: Essa Resolução entra em vigor em 1º de junho de 2026.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000998&seqAto=000&valorAno=2025&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 13,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 406, de 21/11/2025\nDispõe sobre a inclusão da Monografia do ingrediente ativo A73 - Ácido 2,3,5-Triiodobenzoico na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000406&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 14,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 405, de 12/11/2025\nDispõe sobre a inclusão da Monografia do ingrediente ativo T85 - Tetraniliprole na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000405&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 15,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 399, de 25/09/2025\nDispõe sobre a alteração de monografias de ingredientes ativos na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000399&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 16,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 398, de 25/09/2025\nDispõe sobre a inclusão da Monografia do ingrediente ativo O23 - Ocimum Basilicum na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000398&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 17,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 397, de 25/09/2025\nDispõe sobre a alteração da Monografia do ingrediente ativo M47 - Melaleuca Alternifolia na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000397&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 18,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 392, de 14/08/2025\nDispõe sobre a inclusão da Monografia do ingrediente ativo B73 - Betaína na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000392&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 19,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 391, de 14/08/2025\nDispõe sobre a inclusão da Monografia do ingrediente ativo W01 - Willaertia Magna na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000391&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 20,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 387, de 28/07/2025\nDispõe sobre a inclusão da Monografia do ingrediente ativo T84 - Thymus Vulgaris na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000387&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 21,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 386, de 28/07/2025\nDispõe sobre a inclusão da Monografia do ingrediente ativo P77 - Paenibacillus Ottowii na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000386&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 22,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 385, de 28/07/2025\nDispõe sobre a alteração de monografias de ingredientes ativos na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000385&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 23,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 384, de 28/07/2025\nDispõe sobre a inclusão da Monografia do ingrediente ativo B72 - Baculovirus Plutella Xylostella Granulovirus na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000384&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 24,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 382, de 28/07/2025\nDispõe sobre a alteração da Monografia do ingrediente ativo C39 - Cianamida na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000382&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 25,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 379, de 01/07/2025\nDispõe sobre a inclusão da Monografia do ingrediente ativo S25 - Streptomyces Griseoviridis na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000379&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 26,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 376, de 01/07/2025\nDispõe sobre a inclusão da Monografia do ingrediente ativo B71 - Bacillus Inaquosorum na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000376&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 27,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 372, de 05/06/2025\nDispõe sobre a inclusão da Monografia do ingrediente ativo O22 - Ooencyrtus Submetallicus na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000372&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 28,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 371, de 05/06/2025\nDispõe sobre a alteração de monografias de ingredientes ativos na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000371&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 29,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 366, de 16/05/2025\nDispõe sobre a inclusão da Monografia do ingrediente ativo P76 - Pseudomonas Glycinis na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000366&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 30,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 365, de 16/05/2025\nDispõe sobre a alteração da Monografia do ingrediente ativo T78 - Trichoderma Viride na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000365&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 31,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 364, de 16/05/2025\nDispõe sobre a inclusão da Monografia do ingrediente ativo F82 - Fluoxastrobina na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000364&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 32,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 363, de 16/05/2025\nDispõe sobre a alteração da Monografia do ingrediente ativo M47 - Melaleuca Alternifolia na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000363&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 33,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 354, de 26/03/2025\nDispõe sobre a alteração de monografias de ingredientes ativos na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000354&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 34,
+          "titulo": "VIGENTEInstrução Normativa - IN nº 350, de 18/03/2025\nDispõe sobre alteração nas monografias dos ingredientes ativos, da Relação de Ingredientes Ativos de agrotóxicos, saneantes desinfestantes e preservativos de madeira, publicada por meio da Instrução Normativa - IN nº 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000350&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 35,
+          "titulo": "VIGENTEInstrução Normativa - IN nº 349, de 18/03/2025\nDispõe sobre a inclusão da Monografia do ingrediente ativo B70 - Baculovírus Erinnyis Ello na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000349&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 36,
+          "titulo": "VIGENTEInstrução Normativa - IN nº 348, de 18/03/2025\nDispõe sobre a inclusão da Monografia do ingrediente ativo C92 - Chromobacterium Subtsugae na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000348&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 37,
+          "titulo": "VIGENTEInstrução Normativa - IN nº 347, de 18/03/2025\nDispõe sobre a alteração de monografias de ingredientes ativos na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000347&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 38,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 346, de 20/02/2025\nDispõe sobre a alteração de monografias de ingredientes ativos na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000346&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 39,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 341, de 19/12/2024\nDispõe sobre a alteração de monografias de ingredientes ativos na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000341&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 40,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 340, de 19/12/2024\nDispõe sobre a inclusão das monografias dos ingredientes ativos C90 - Coffea SP e C91 - Corymbia citriodora na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000340&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 41,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 950, de 13/12/2024\nEstabelece requisitos complementares para otimização de análise de petições para avaliação e classificação toxicológica de produtos formulados obtidos a partir de produtos técnicos equivalentes e dá outras providências.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000950&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 42,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 339, de 12/12/2024\nDispõe sobre a inclusão da Monografia do ingrediente ativo Q06 - Quitosona, na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000339&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 43,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 326, de 04/10/2024\nDispõe sobre Inclusão da Monografia do ingrediente ativo B69 - Baculovirus Cydia Pomonella Granulovirus na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000326&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 44,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 325, de 04/10/2024\nDispõe sobre Inclusão da Monografia do ingrediente ativo F80 - FLUOXAPIPROLINA na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000325&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 45,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 902, de 06/09/2024\nDispõe sobre a inclusão de declaração sobre nova fórmula na rotulagem de produtos sujeitos à vigilância sanitária quando da alteração de sua composição.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000902&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 46,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 315, de 04/09/2024\nDispõe sobre a alteração de monografias de ingredientes ativos na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000315&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 47,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 314, de 04/09/2024\nDispõe sobre a inclusão da monografia do ingrediente ativo C87 - Compostos a Base de Silício, na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000314&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 48,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 310, de 07/08/2024\nDispõe sobre Inclusão da Monografia do ingrediente ativo E34 - ESPIDOXAMATO na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000310&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 49,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 309, de 07/08/2024\nDispõe sobre Inclusão da Monografia do ingrediente ativo M55 - METARILPICOXAMIDA na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000309&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 50,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 308, de 07/08/2024\nDispõe sobre a alteração de monografias de ingredientes ativos na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000308&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "ALIMENTOS",
+      "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=310&cod_menu=9431&letra=ALIMENTOS&co_tematica=24954706",
+      "total_resenhas": 158,
+      "resenhas": [
+        {
+          "numero": 1,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada Anvisa nº 1.020, de 02/04/2026\nDispõe sobre os requisitos sanitários aplicáveis aos silicones utilizados em materiais, embalagens, revestimentos e equipamentos destinados a entrar em contato com alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00001020&seqAto=000&valorAno=2026&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 2,
+          "titulo": "VIGENTEInstrução Normativa Anvisa nº 435, de 02/04/2026\nEstabelece as definições, as listas de substâncias autorizadas e os métodos analíticos aplicáveis à elaboração de silicones utilizados em materiais, embalagens, revestimentos e equipamentos destinados a entrar em contato com alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000435&seqAto=000&valorAno=2026&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 3,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 432, de 01/04/2026 (*)\nAltera a Instrução Normativa - IN nº 211, de 1º de março de 2023, que estabelece as funções tecnológicas, os limites máximos e as condições de uso para os aditivos alimentares e os coadjuvantes de tecnologia autorizados para uso em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000432&seqAto=000&valorAno=2026&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 4,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 431, de 01/04/2026\nAltera a Instrução Normativa nº 28, de 26 de julho de 2018, que estabelece as listas de constituintes, de limites de uso, de alegações e de rotulagem complementar dos suplementos alimentares.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000431&seqAto=000&valorAno=2026&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 5,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 427, de 18/02/2026\nAltera a Instrução Normativa - IN nº 162, de 1º de julho de 2022, que estabelece a ingestão diária aceitável (IDA), a dose de referência aguda (DRfA) e os limites máximos de resíduos (LMR) para insumos farmacêuticos ativos (IFA) de medicamentos veterinários em alimentos de origem animal.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000427&seqAto=000&valorAno=2026&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 6,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 419, de 18/12/2025\nAltera a Instrução Normativa - IN nº 159, de 1º de julho de 2022, que estabelece as listas das partes de vegetais autorizadas para o preparo de chás e para o uso como especiarias.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000419&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 7,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 415, de 17/12/2025\nAltera a Instrução Normativa - IN nº 211, de 1º de março de 2023, que estabelece as funções tecnológicas, os limites máximos e as condições de uso para os aditivos alimentares e os coadjuvantes de tecnologia autorizados para uso em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000415&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 8,
+          "titulo": "VIGENTEInstrução Normativa Anvisa nº 414, de 17/12/2025\nAltera a Instrução Normativa - IN nº 367, de 5 de junho de 2025, que estabelece as listas de constituintes, de limites de uso e de alegações para fórmulas infantis, fórmulas de nutrientes para recém-nascidos de alto risco, alimentos de transição e alimentos à base de cereais para lactentes e crianças de primeira infância, fórmulas para nutrição enteral e fórmulas dietoterápicas para erros inatos do metabolismo.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000414&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 9,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 418, de 18/12/2025\nAltera a Instrução Normativa nº 28, de 26 de julho de 2018, que estabelece as listas de constituintes, de limites de uso, de alegações e de rotulagem complementar dos suplementos alimentares.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000418&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 10,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada Anvisa nº 1.003, de 16/12/2025\nAltera a Resolução da Diretoria Colegiada Anvisa nº 976, de 5 de junho de 2025.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00001003&seqAto=000&valorAno=2025&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 11,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 407, de 21/11/2025\nAltera a Instrução Normativa - IN nº 211, de 1º de março de 2023, que estabelece as funções tecnológicas, os limites máximos e as condições de uso para os aditivos alimentares e os coadjuvantes de tecnologia autorizados para uso em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000407&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 12,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada Anvisa nº 992, de 27/08/2025\nDispõe sobre os requisitos sanitários aplicáveis às películas de celulose regenerada destinadas a entrar em contato com alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000992&seqAto=000&valorAno=2025&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 13,
+          "titulo": "VIGENTEInstrução Normativa Anvisa nº 396, de 27/08/2025\nEstabelece as listas positivas de substâncias autorizadas para a fabricação de películas de celulose regenerada destinadas a entrar em contato com alimentos e suas condições de uso.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000396&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 14,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada Anvisa nº 990, de 25/08/2025\nAltera a Resolução de Diretoria Colegiada - RDC nº 843, de 22 de fevereiro de 2024, que dispõe sobre a regularização de alimentos e embalagens sob competência do Sistema Nacional de Vigilância Sanitária (SNVS) destinados à oferta no território nacional.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000990&seqAto=000&valorAno=2025&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 15,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 395, de 25/08/2025\nAltera a Instrução Normativa - IN nº 211, de 1º de março de 2023, que estabelece as funções tecnológicas, os limites máximos e as condições de uso para os aditivos alimentares e os coadjuvantes de tecnologia autorizados para uso em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000395&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 16,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 393, de 15/08/2025 (*)\nAltera a Instrução Normativa - IN nº 211, de 1º de março de 2023, que estabelece as funções tecnológicas, os limites máximos e as condições de uso para os aditivos alimentares e os coadjuvantes de tecnologia autorizados para uso em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000393&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 17,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 984, de 28/07/2025\nAltera a Resolução da Diretoria Colegiada - RDC nº 730, de 1º de julho de 2022, que dispõe sobre a avaliação do risco à saúde humana de medicamentos veterinários, os limites máximos de resíduos (LMR) de medicamentos veterinários em alimentos de origem animal e os métodos de análise para fins de avaliação da conformidade.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000984&seqAto=000&valorAno=2025&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 18,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 381, de 28/07/2025\nAltera a Instrução Normativa - IN nº 162, de 1º de julho de 2022, que estabelece a ingestão diária aceitável (IDA), a dose de referência aguda (DRfA) e os limites máximos de resíduos (LMR) para insumos farmacêuticos ativos (IFA) de medicamentos veterinários em alimentos de origem animal.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000381&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 19,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 983, de 28/07/2025\nAltera a Resolução de Diretoria Colegiada - RDC nº 843, de 22 de fevereiro de 2024, que dispõe sobre a regularização de alimentos e embalagens sob competência do Sistema Nacional de Vigilância Sanitária (SNVS) destinados à oferta no território nacional.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000983&seqAto=000&valorAno=2025&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 20,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 380, de 03/07/2025\nAltera a Instrução Normativa - IN nº 211, de 1º de março de 2023, que estabelece as funções tecnológicas, os limites máximos e as condições de uso para os aditivos alimentares e os coadjuvantes de tecnologia autorizados para uso em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000380&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 21,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 976, de 05/06/2025\nDispõe sobre os requisitos sanitários para fórmulas infantis, fórmulas de nutrientes para recém- nascidos de alto risco, alimentos de transição e alimentos à base de cereais para lactentes e crianças de primeira infância, fórmulas para nutrição enteral e fórmulas dietoterápicas para erros inatos do metabolismo.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000976&seqAto=000&valorAno=2025&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 22,
+          "titulo": "VIGENTEInstrução Normativa - IN nº 368, de 05/06/2025\nAltera a Instrução Normativa - IN nº 281, de 22 de fevereiro de 2024, que estabelece a forma de regularização das diferentes categorias de alimentos e embalagens, e a respectiva documentação que deve ser apresentada.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000368&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 23,
+          "titulo": "VIGENTE COM ALTERAÇÕESInstrução Normativa - IN nº 367, de 05/06/2025\nEstabelece as listas de constituintes, de limites de uso e de alegações para fórmulas infantis, fórmulas de nutrientes para recém-nascidos de alto risco, alimentos de transição e alimentos à base de cereais para lactentes e crianças de primeira infância, fórmulas para nutrição enteral e fórmulas dietoterápicas para erros inatos do metabolismo.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000367&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 24,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 979, de 06/06/2025\nAltera a Resolução da Diretoria Colegiada - RDC nº 88, de 29 de junho de 2016, que aprova o regulamento técnico sobre materiais, embalagens e equipamentos celulósicos destinados a entrar em contato com alimentos e dá outras providências.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000979&seqAto=000&valorAno=2025&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 25,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 373, de 05/06/2025\nAltera a Instrução Normativa nº 28, de 26 de julho de 2018, que estabelece as listas de constituintes, de limites de uso, de alegações e de rotulagem complementar dos suplementos alimentares.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000373&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 26,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 370, de 05/06/2025\nAltera a Instrução Normativa - IN nº 211, de 1º de março de 2023, que estabelece as funções tecnológicas, os limites máximos e as condições de uso para os aditivos alimentares e os coadjuvantes de tecnologia autorizados para uso em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000370&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 27,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 369, de 05/06/2025\nAltera a Instrução Normativa nº 211, de 1º de março de 2023, que estabelece as funções tecnológicas, os limites máximos e as condições de uso para os aditivos alimentares e os coadjuvantes de tecnologia autorizados para uso em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000369&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 28,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 975, de 14/05/2025\nAltera a Resolução da Diretoria Colegiada - RDC nº 778, de 1º de março de 2023, que dispõe sobre os princípios gerais, as funções tecnológicas e as condições de uso de aditivos alimentares e coadjuvantes de tecnologia em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000975&seqAto=000&valorAno=2025&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 29,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 361, de 14/05/2025\nAltera a Instrução Normativa - IN nº 28, de 26 de julho de 2018, que estabelece as listas de constituintes, de limites de uso, de alegações e de rotulagem complementar dos suplementos alimentares.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000361&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 30,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 356, de 28/03/2025\nAltera a Instrução Normativa - IN nº 211, de 1º de março de 2023, que estabelece as funções tecnológicas, os limites máximos e as condições de uso para os aditivos alimentares e os coadjuvantes de tecnologia autorizados para uso em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000356&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 31,
+          "titulo": "VIGENTEInstrução Normativa - IN nº 351, de 18/03/2025\nAltera a Instrução Normativa - IN nº 160, de 1º de julho de 2022, que estabelece os limites máximos tolerados (LMT) de contaminantes em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000351&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 32,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 963, de 20/02/2025\nAltera a Resolução da Diretoria Colegiada - RDC nº 326, de 3 de dezembro de 2019, que estabelece a lista positiva de aditivos destinados à elaboração de materiais plásticos e revestimentos poliméricos em contato com alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000963&seqAto=000&valorAno=2025&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 33,
+          "titulo": "VIGENTEInstrução Normativa - IN nº 344, de 20/02/2025\nEstabelece as condições para procedimento otimizado de análise das petições de avaliação na área de alimentos pela admissão de documentação instrutória emitida por Autoridade Reguladora Estrangeira Equivalente (AREE).",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000344&seqAto=000&valorAno=2025&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 34,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 961, de 06/02/2025\nAltera a Resolução da Diretoria Colegiada - RDC nº 56, de 16 de novembro de 2012, que dispõe sobre a lista positiva de monômeros, outras substâncias iniciadoras e polímeros autorizados para a elaboração de embalagens e equipamentos plásticos em contato com alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000961&seqAto=000&valorAno=2025&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 35,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 336, de 28/11/2024\nAltera a Instrução Normativa nº 28, de 26 de julho de 2018, que estabelece as listas de constituintes, de limites de uso, de alegações e de rotulagem complementar dos suplementos alimentares.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000336&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 36,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 334, de 14/11/2024\nAltera a Instrução Normativa - IN nº 211, de 1º de março de 2023, que estabelece as funções tecnológicas, os limites máximos e as condições de uso para os aditivos alimentares e os coadjuvantes de tecnologia autorizados para uso em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000334&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 37,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 908, de 19/09/2024\nDispõe sobre os requisitos sanitários dos bicos, chupetas e mamadeiras.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000908&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 38,
+          "titulo": "VIGENTEInstrução Normativa - IN nº 318, de 19/09/2024 \nAltera a Instrução Normativa nº 28, de 26 de julho de 2018, que estabelece as listas de constituintes, de limites de uso, de alegações e de rotulagem complementar dos suplementos alimentares.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000318&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 39,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 317, de 19/09/2024\nAltera a Instrução Normativa - IN nº 162, de 1º de julho de 2022, que estabelece a ingestão diária aceitável (IDA), a dose de referência aguda (DRfA) e os limites máximos de resíduos (LMR) para insumos farmacêuticos ativos (IFA) de medicamentos veterinários em alimentos de origem animal.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000317&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 40,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 902, de 06/09/2024\nDispõe sobre a inclusão de declaração sobre nova fórmula na rotulagem de produtos sujeitos à vigilância sanitária quando da alteração de sua composição.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000902&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 41,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 306, de 01/07/2024\nAltera a Instrução Normativa - IN nº 211, de 1º de março de 2023, que estabelece as funções tecnológicas, os limites máximos e as condições de uso para os aditivos alimentares e os coadjuvantes de tecnologia autorizados para uso em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000306&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 42,
+          "titulo": "VIGENTEInstrução Normativa - IN nº 304, de 26/06/2024 \nAltera a Instrução Normativa - IN nº 28, de 26 de julho de 2018, que estabelece as listas de constituintes, de limites de uso, de alegações e de rotulagem complementar dos suplementos alimentares.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000304&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 43,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 303, de 28/05/2024\nAltera a Instrução Normativa - IN nº 211, de 1º de março de 2023, que estabelece as funções tecnológicas, os limites máximos e as condições de uso para os aditivos alimentares e os coadjuvantes de tecnologia autorizados para uso em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000303&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 44,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 868, de 16/05/2024\nDispõe sobre as diretrizes básicas para avaliação de risco e segurança dos alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000868&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 45,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 297, de 02/05/2024\nAltera a Instrução Normativa - IN nº 211, de 1º de março de 2023, que estabelece as funções tecnológicas, os limites máximos e as condições de uso para os aditivos alimentares e os coadjuvantes de tecnologia autorizados para uso em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000297&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 46,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 295, de 02/05/2024\nAltera a Instrução Normativa - IN nº 211, de 1º de março de 2023, que estabelece as funções tecnológicas, os limites máximos e as condições de uso para os aditivos alimentares e os coadjuvantes de tecnologia autorizados para uso em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000295&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 47,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 854, de 04/04/2024\nDispõe sobre os requisitos sanitários aplicáveis às embalagens, revestimentos, utensílios, tampas e equipamentos metálicos destinados a entrar em contato com alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000854&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 48,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 849, de 08/03/2024\nAltera a Resolução da Diretoria Colegiada - RDC nº 778, de 1º de março de 2023, que dispõe sobre os princípios gerais, as funções tecnológicas e as condições de uso de aditivos alimentares e coadjuvantes de tecnologia em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000849&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 49,
+          "titulo": "VIGENTEInstrução Normativa - IN nº 286, de 08/03/2024 \nAltera a Instrução Normativa - IN nº 211, de 1º de março de 2023, que estabelece as funções tecnológicas, os limites máximos e as condições de uso para os aditivos alimentares e os coadjuvantes de tecnologia autorizados para uso em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000286&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 50,
+          "titulo": "VIGENTEInstrução Normativa - IN nº 284, de 07/03/2024 \nAltera a Instrução Normativa - IN nº 28, de 26 de julho de 2018, que estabelece as listas de constituintes, de limites de uso, de alegações e de rotulagem complementar dos suplementos alimentares.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000284&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 51,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 843, de 22/02/2024\nDispõe sobre a regularização de alimentos e embalagens sob competência do Sistema Nacional de Vigilância Sanitária (SNVS) destinados à oferta no território nacional.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000843&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 52,
+          "titulo": "VIGENTE COM ALTERAÇÕESInstrução Normativa - IN nº 281, de 22/02/2024 \nEstabelece a forma de regularização das diferentes categorias de alimentos e embalagens, e a respectiva documentação que deve ser apresentada.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000281&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 53,
+          "titulo": "VIGENTEInstrução Normativa - IN nº 275, de 21/02/2024 \nAltera a Instrução Normativa nº 28, de 26 de julho de 2018, que estabelece as listas de constituintes, de limites de uso, de alegações e de rotulagem complementar dos suplementos alimentares.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000275&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 54,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 274, de 21/02/2024\nAltera a Instrução Normativa nº 211, de 1º de março de 2023, que estabelece as funções tecnológicas, os limites máximos e as condições de uso para os aditivos alimentares e os coadjuvantes de tecnologia autorizados para uso em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000274&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 55,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 273, de 21/02/2024\nAltera a Instrução Normativa - IN nº 159, de 1º de julho de 2022, que estabelece as listas das partes de vegetais autorizadas para o preparo de chás e para o uso como especiarias.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000273&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 56,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 839, de 14/12/2023\nDispõe sobre a comprovação de segurança e a autorização de uso de novos alimentos e novos ingredientes.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000839&seqAto=000&valorAno=2023&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 57,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 267, de 11/12/2023\nAltera a Instrução Normativa - IN nº 211, de 1º de março de 2023, que estabelece as funções tecnológicas, os limites máximos e as condições de uso para os aditivos alimentares e os coadjuvantes de tecnologia autorizados para uso em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000267&seqAto=000&valorAno=2023&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 58,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 829, de 01/12/2023\nAltera a Resolução de Diretoria Colegiada - RDC nº 481, de 15 de março de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000829&seqAto=000&valorAno=2023&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 59,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 826, de 23/11/2023\nAltera a Resolução de Diretoria Colegiada - RDC nº 778, de 1º de março de 2023, que dispõe sobre os princípios gerais, as funções tecnológicas e as condições de uso de aditivos alimentares e coadjuvantes de tecnologia em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000826&seqAto=000&valorAno=2023&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 60,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 819, de 09/10/2023\nAltera a Resolução de Diretoria Colegiada - RDC nº 429, de 8 de outubro de 2020, que dispõe sobre a rotulagem nutricional dos alimentos embalados.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000819&seqAto=000&valorAno=2023&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 61,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 818, de 28/09/2023\nDispõe sobre os requisitos sanitários dos adoçantes de mesa e dos adoçantes dietéticos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000818&seqAto=000&valorAno=2023&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 62,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 241, de 03/08/2023\nAltera a Instrução Normativa - IN nº 162, de 1º de julho de 2022, que estabelece a ingestão diária aceitável (IDA), a dose de referência aguda (DRfA) e os limites máximos de resíduos (LMR) para insumos farmacêuticos ativos (IFA) de medicamentos veterinários em alimentos de origem animal.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000241&seqAto=000&valorAno=2023&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 63,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 798, de 19/05/2023\nAltera a Resolução de Diretoria Colegiada - RDC nº 88, de 29 de junho de 2016, que aprova o regulamento técnico sobre materiais, embalagens e equipamentos celulósicos destinados a entrar em contato com alimentos e dá outras providências.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000798&seqAto=000&valorAno=2023&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 64,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 223, de 10/05/2023\nAltera a Instrução Normativa - IN nº 211, de 1º de março de 2023, que estabelece as funções tecnológicas, os limites máximos e as condições de uso para os aditivos alimentares e os coadjuvantes de tecnologia autorizados para uso em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000223&seqAto=000&valorAno=2023&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 65,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 221, de 17/04/2023\nAltera a Instrução Normativa - IN nº 211, de 1º de março de 2023, que estabelece as funções tecnológicas, os limites máximos e as condições de uso para os aditivos alimentares e os coadjuvantes de tecnologia autorizados para uso em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000221&seqAto=000&valorAno=2023&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 66,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 779, de 01/03/2023\nDispõe sobre os aditivos alimentares fermentos químicos e sobre os coadjuvantes de tecnologia fermentos biológicos e nutrientes para levedura destinados ao uso em produtos de panificação e biscoitos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000779&seqAto=000&valorAno=2023&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 67,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 778, de 01/03/2023\nDispõe sobre os princípios gerais, as funções tecnológicas e as condições de uso de aditivos alimentares e coadjuvantes de tecnologia em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000778&seqAto=000&valorAno=2023&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 68,
+          "titulo": "VIGENTE COM ALTERAÇÕESInstrução Normativa - IN nº 211, de 01/03/2023 \nEstabelece as funções tecnológicas, os limites máximos e as condições de uso para os aditivos alimentares e os coadjuvantes de tecnologia autorizados para uso em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000211&seqAto=000&valorAno=2023&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 69,
+          "titulo": "ALTERADORInstrução Normativa - IN nº 197, de 08/12/2022\nAltera a Instrução Normativa - IN nº 159, de 1º de julho de 2022, que estabelece as listas das partes de vegetais autorizadas para o preparo de chás e para o uso como especiarias.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000197&seqAto=000&valorAno=2022&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 70,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 755, de 14/10/2022\nAltera a Resolução de Diretoria Colegiada - RDC nº 217, de 1º de agosto de 2002, que aprova o regulamento técnico sobre películas de celulose regenerada em contato com alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000755&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 71,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 730, de 01/07/2022\nDispõe sobre a avaliação do risco à saúde humana de medicamentos veterinários, os limites máximos de resíduos (LMR) de medicamentos veterinários em alimentos de origem animal e os métodos de análise para fins de avaliação da conformidade.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000730&seqAto=002&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 72,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 729, de 01/07/2022\nDispõe sobre a melhora da técnica legislativa e revogação de normas inferiores a Decreto editadas pela ANVISA, componentes da quinta etapa de consolidação da pertinência temática de alimentos em observância ao que prevê a Portaria nº 488/GADIP-DP/ANVISA, de 23 de setembro de 2021 e o Decreto nº 10.139, de 28 de novembro de 2019.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000729&seqAto=002&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 73,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 728, de 01/07/2022\nDispõe sobre as enzimas e as preparações enzimáticas para uso como coadjuvantes de tecnologia na produção de alimentos destinados ao consumo humano.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000728&seqAto=002&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 74,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 727, de 01/07/2022\nDispõe sobre a rotulagem dos alimentos embalados.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000727&seqAto=002&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 75,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 726, de 01/07/2022\nDispõe sobre os requisitos sanitários dos cogumelos comestíveis, dos produtos de frutas e dos produtos de vegetais.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000726&seqAto=002&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 76,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 725, de 01/07/2022\nDispõe sobre os aditivos alimentares aromatizantes.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000725&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 77,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 724, de 01/07/2022\nDispõe sobre os padrões microbiológicos dos alimentos e sua aplicação.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000724&seqAto=002&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 78,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 723, de 01/07/2022\nDispõe sobre os requisitos sanitários do açúcar, açúcar líquido invertido, açúcar de confeitaria, bala, bombom, cacau em pó, cacau solúvel, chocolate, chocolate branco, goma de mascar, manteiga de cacau, massa de cacau, melaço, melado e rapadura.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000723&seqAto=002&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 79,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 722, de 01/07/2022\nDispõe sobre os limites máximos tolerados (LMT) de contaminantes em alimentos, os princípios gerais para o seu estabelecimento e os métodos de análise para fins de avaliação de conformidade.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000722&seqAto=002&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 80,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 720, de 01/07/2022\nDispõe sobre os requisitos sanitários dos alimentos nutricionalmente modificados.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000720&seqAto=002&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 81,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 719, de 01/07/2022\nDispõe sobre os requisitos sanitários das misturas para o preparo de alimentos e dos alimentos prontos para o consumo.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000719&seqAto=002&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 82,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 717, de 01/07/2022\nDispõe sobre os requisitos sanitários das águas envasadas e do gelo para consumo humano.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000717&seqAto=002&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 83,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 716, de 01/07/2022\nDispõe sobre os requisitos sanitários do café, cevada, chás, erva-mate, especiarias, temperos e molhos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000716&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 84,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 715, de 01/07/2022\nDispõe sobre os requisitos sanitários do sal hipossódico, dos alimentos para controle de peso, dos alimentos para dietas com restrição de nutrientes e dos alimentos para dietas de ingestão controlada de açúcares.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000715&seqAto=002&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 85,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 714, de 01/07/2022\nDispõe sobre os requisitos sanitários para enriquecimento e restauração de alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000714&seqAto=002&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 86,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 713, de 01/07/2022\nDispõe sobre os requisitos sanitários dos gelados comestíveis e dos preparados para gelados comestíveis.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000713&seqAto=002&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 87,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 712, de 01/07/2022\nDispõe sobre os requisitos de composição e rotulagem dos alimentos contendo cereais e pseudocereais para classificação e identificação como integral e para destaque da presença de ingredientes integrais.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000712&seqAto=002&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 88,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 711, de 01/07/2022\nDispõe sobre os requisitos sanitários dos amidos, biscoitos, cereais integrais, cereais processados, farelos, farinhas, farinhas integrais, massas alimentícias e pães.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000711&seqAto=002&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 89,
+          "titulo": "VIGENTE COM ALTERAÇÕESInstrução Normativa - IN nº 162, de 01/07/2022 \nEstabelece a ingestão diária aceitável (IDA), a dose de referência aguda (DRfA) e os limites máximos de resíduos (LMR) para insumos farmacêuticos ativos (IFA) de medicamentos veterinários em alimentos de origem animal.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000162&seqAto=000&valorAno=2022&orgao=ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 90,
+          "titulo": "VIGENTE COM ALTERAÇÕESInstrução Normativa - IN nº 161, de 01/07/2022 \nEstabelece os padrões microbiológicos dos alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000161&seqAto=000&valorAno=2022&orgao=ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 91,
+          "titulo": "VIGENTE COM ALTERAÇÕESInstrução Normativa - IN nº 160, de 01/07/2022 \nEstabelece os limites máximos tolerados (LMT) de contaminantes em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000160&seqAto=000&valorAno=2022&orgao=ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 92,
+          "titulo": "VIGENTE COM ALTERAÇÕESInstrução Normativa - IN nº 159, de 01/07/2022 \nEstabelece as listas das partes de espécies vegetais autorizadas para o preparo de chás e para o uso como especiarias.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000159&seqAto=000&valorAno=2022&orgao=ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 93,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 656, de 24/03/2022\nDispõe sobre a prestação de serviços de alimentação em eventos de massa.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000656&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 94,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 655, de 24/03/2022\nDispõe sobre o recolhimento de alimentos e sua comunicação à Anvisa e aos consumidores.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000655&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 95,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 635, de 24/03/2022\nDispõe sobre a proibição, em todo o território nacional, da produção, importação, comercialização, propaganda e distribuição de alimentos com forma de apresentação semelhante a cigarro, charuto, cigarrilha, ou qualquer outro produto fumígeno, derivado do tabaco ou não.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000635&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 96,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 632, de 24/03/2022\nDispõe sobre a restrição de uso de gorduras trans industriais em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000632&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 97,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 623, de 09/03/2022\nDispõe sobre os limites de tolerância para matérias estranhas em alimentos, os princípios gerais para o seu estabelecimento e os métodos de análise para fins de avaliação de conformidade.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000623&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 98,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 617, de 09/03/2022\nDispõe sobre a obrigatoriedade da realização de análises laboratoriais e da transmissão de informações sobre os teores de fenilalanina, proteínas e umidade em alimentos industrializados.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000617&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 99,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 612, de 09/03/2022\nAltera a Resolução de Diretoria Colegiada - RDC nº 604, de 10 de fevereiro de 2022.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000612&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 100,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 604, de 10/02/2022\nDispõe sobre o enriquecimento obrigatório do sal com iodo e das farinhas de trigo e de milho com ferro e ácido fólico destinados ao consumo humano.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000604&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 101,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 603, de 10/02/2022\nDispõe sobre os procedimentos para emissão da Certidão de Venda Livre para Exportação de Alimentos (CVLEA), no âmbito do Sistema Nacional de Vigilância Sanitária.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000603&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 102,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 589, de 20/12/2021\nAltera a Resolução nº 105, de 19 de maio de 1999, que aprova as disposições gerais para embalagens e equipamentos plásticos em contato com alimentos, a Resolução da Diretoria Colegiada - RDC nº 56, de 16 de novembro de 2012, que dispõe sobre a lista positiva de monômeros, outras substâncias iniciadoras e polímeros autorizados para a elaboração de embalagens e equipamentos plásticos em contato com alimentos, e a Resolução - RDC nº 88, de 29 de junho de 2016, que dispõe sobre materiais, embalagens e equipamentos celulósicos destinados a entrar em contato com alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000589&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 103,
+          "titulo": "VIGENTEInstrução Normativa - IN nº 102, de 15/10/2021 \nAltera a Instrução Normativa nº 28, de 26 de julho de 2018, que estabelece as listas de constituintes, de limites de uso, de alegações e de rotulagem complementar dos suplementos alimentares.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000102&seqAto=000&valorAno=2021&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 104,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 503, de 27/05/2021\nDispõe sobre os requisitos mínimos exigidos para a Terapia de Nutrição Enteral.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000503&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 105,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 481, de 15/03/2021\nDispõe sobre os requisitos sanitários para óleos e gorduras vegetais.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000481&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 106,
+          "titulo": "VIGENTE COM ALTERAÇÕESInstrução Normativa - IN nº 087, de 15/03/2021 \nEstabelece a lista de espécies vegetais autorizadas, as designações, a composição de ácidos graxos e os valores máximos de acidez e de índice de peróxidos para óleos e gorduras vegetais.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000087&seqAto=000&valorAno=2021&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 107,
+          "titulo": "VIGENTE COM ALTERAÇÕESInstrução Normativa - IN nº 082, de 17/12/2020 \nDispõe sobre Boas Práticas de Fabricação de fórmulas dietoterápicas para erros inatos do metabolismo.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000082&seqAto=000&valorAno=2020&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 108,
+          "titulo": "VIGENTEInstrução Normativa - IN nº 76, de 05/11/2020  \nDispõe sobre a atualização das listas de constituintes, de limites de uso, de alegações e de rotulagem complementar dos suplementos alimentares.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000076&seqAto=000&valorAno=2020&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 109,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 429, de 08/10/2020\nDispõe sobre a rotulagem nutricional dos alimentos embalados.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000429&seqAto=000&valorAno=2020&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 110,
+          "titulo": "VIGENTE COM ALTERAÇÕESInstrução Normativa - IN nº 75, de 08/10/2020 \nEstabelece os requisitos técnicos para declaração da rotulagem nutricional nos alimentos embalados.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000075&seqAto=000&valorAno=2020&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 111,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 326, de 03/12/2019\nEstabelece a lista positiva de aditivos destinados à elaboração de materiais plásticos e revestimentos poliméricos em contato com alimentos e dá outras providências.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000326&seqAto=000&valorAno=2019&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 112,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 243, de 26/07/2018\nDispõe sobre os requisitos sanitários dos suplementos alimentares.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000243&seqAto=000&valorAno=2018&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 113,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 241, de 26/07/2018\nDispõe sobre os requisitos para comprovação da segurança e dos benefícios à saúde dos probióticos para uso em alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000241&seqAto=000&valorAno=2018&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 114,
+          "titulo": "VIGENTE COM ALTERAÇÕESInstrução Normativa - IN nº 28, de 26/07/2018 \nEstabelece as listas de constituintes, de limites de uso, de alegações e de rotulagem complementar dos suplementos alimentares.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000028&seqAto=000&valorAno=2018&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 115,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 182, de 13/10/2017\nDispõe sobre as boas práticas para industrialização, distribuição e comercialização de água adicionada de sais.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000182&seqAto=000&valorAno=2017&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 116,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 172, de 08/09/2017\nDispõe sobre os procedimentos para a importação e a exportação de bens e produtos destinados à pesquisa científica ou tecnológica e à pesquisa envolvendo seres humanos, e dá outras providências.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000172&seqAto=000&valorAno=2017&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 117,
+          "titulo": "ALTERADORInstrução Normativa Divisa/SVS nº 16, de 23/05/2017\nAprova a atualização do anexo da Instrução Normativa nº 4, de 15 de dezembro de 2014, que aprovou o regulamento técnico sobre boas práticas para estabelecimentos comerciais de alimentos e para serviços de alimentação.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000016&seqAto=000&valorAno=2017&orgao=ANVISA/DVS/SVS/SESDF/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 118,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 90, de 29/06/2016\nAprova o regulamento técnico sobre materiais, embalagens e equipamentos celulósicos destinados a entrar em contato com alimentos durante a cocção ou aquecimento em forno e dá outras providências.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000090&seqAto=000&valorAno=2016&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 119,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 89, de 29/06/2016\nAprova o regulamento técnico sobre materiais celulósicos para cocção e filtração a quente e dá outras providências.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000089&seqAto=000&valorAno=2016&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 120,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 88, de 29/06/2016\nAprova o regulamento técnico sobre materiais, embalagens e equipamentos celulósicos destinados a entrar em contato com alimentos e dá outras providências.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000088&seqAto=00A&valorAno=2016&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 121,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 52, de 29/09/2014\nAltera a Resolução RDC nº 216, de 15 de setembro de 2004, que dispõe sobre o Regulamento Técnico de Boas Práticas para os Serviços de Alimentação.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000052&seqAto=000&valorAno=2014&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 122,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 49, de 31/10/2013\nDispõe sobre a regularização para o exercício de atividade de interesse sanitário do microempreendedor individual, do empreendimento familiar rural e do empreendimento econômico solidário e dá outras providências.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000049&seqAto=000&valorAno=2013&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 123,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 56, de 16/11/2012\nDispõe sobre a lista positiva de monômeros, outras substâncias iniciadoras e polímeros autorizados para a elaboração de embalagens e equipamentos plásticos em contato com alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000056&seqAto=000&valorAno=2012&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 124,
+          "titulo": "VIGENTEResolução - RE nº 5052, de 10/11/2011 \nProibe a importação, a fabricação, a distribuição e a comercialização, em todo território nacional, de alimentos e bebidas à base de Aloe Vera, por não haver comprovação da segurança de uso e nem registro junto à Anvisa/MS.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RES&numeroAto=00005052&seqAto=000&valorAno=2011&orgao=RE/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 125,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 052, de 26/11/2010 (*)\nDispõe sobre corantes em embalagens e equipamentos plásticos destinados a estar em contato com alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000052&seqAto=000&valorAno=2010&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 126,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 51, de 26/11/2010 (*)\nDispõe sobre migração em materiais, embalagens e equipamentos plásticos destinados a entrar em contato com alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000051&seqAto=000&valorAno=2010&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 127,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 24, de 15/06/2010\nDispõe sobre a oferta, propaganda, publicidade, informação e outras práticas correlatas cujo objetivo seja a divulgação e a promoção comercial de alimentos considerados com quantidades elevadas de açúcar, de gordura saturada, de gordura trans, de sódio, e de bebidas com baixo teor nutricional, nos termos desta Resolução, e dá outras providências.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000024&seqAto=000&valorAno=2010&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 128,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 81, de 05/11/2008\nDispõe sobre o Regulamento Técnico de Bens e Produtos Importados para fins de Vigilância Sanitária.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000081&seqAto=000&valorAno=2008&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 129,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 20, de 26/03/2008\nDispõe sobre o Regulamento Técnico sobre embalagens de polietilenotereftalato (PET) pós-consumo reciclado grau alimentício (PET-PCR grau alimentício) destinados a entrar em contato com alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000020&seqAto=000&valorAno=2008&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 130,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 173, de 13/09/2006\nDispõe sobre o Regulamento Técnico de Boas Práticas para Industrialização e Comercialização de Água Mineral Natural e de Água Natural e a Lista de Verificação das Boas Práticas para Industrialização e Comercialização de Água Mineral Natural e de Água Natural.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000173&seqAto=002&valorAno=2006&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 131,
+          "titulo": "VIGENTELei nº 11.265, de 03/01/2006\nRegulamenta a comercialização de alimentos para lactentes e crianças de primeira infância e também a de produtos de puericultura correlatos.   Regulamentação",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=LEI&numeroAto=00011265&seqAto=000&valorAno=2006&orgao=NI&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 132,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 218, de 29/07/2005\nDispõe sobre o Regulamento Técnico de Procedimentos Higiênico-Sanitários para Manipulação de Alimentos e Bebidas Preparados com Vegetais.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000218&seqAto=000&valorAno=2005&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 133,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 216, de 15/09/2004\nDispõe sobre Regulamento Técnico de Boas Práticas para Serviços de Alimentação.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000216&seqAto=000&valorAno=2004&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 134,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 281, de 06/10/2003\nEstabelece requisitos de importação para o \"aceite de orujo de oliva\" ou óleo de bagaço e caroço de oliva, incluindo laudo de análise para hidrocarbonetos policíclicos aromáticos, e define limite de tolerância para alfa-benzopireno.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000281&seqAto=000&valorAno=2003&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 135,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 267, de 25/09/2003\nDispõe sobre o Regulamento Técnico de Boas Práticas de Fabricação para Estabelecimentos Industrializadores de Gelados Comestíveis e a Lista de Verificação das Boas Práticas de Fabricação para Estabelecimentos Industrializadores de Gelados Comestíveis.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000267&seqAto=000&valorAno=2003&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 136,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 172, de 04/07/2003\nDispõe sobre o Regulamento Técnico de Boas Práticas de Fabricação para Estabelecimentos Industrializadores de Amendoins Processados e Derivados e a Lista de Verificação das Boas Práticas de Fabricação para Estabelecimentos Industrializadores de Amendoins Processados e Derivados.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000172&seqAto=000&valorAno=2003&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 137,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 081, de 14/04/2003\nEstabelece a obrigatoriedade de identificação do fabricante na embalagem de palmito em conserva e a implementação de Procedimentos Operacionais Padronizados (POPs) para acidificação e tratamento térmico no processamento do produto",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000081&seqAto=000&valorAno=2003&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 138,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 352, de 23/12/2002\nDispõe sobre o Regulamento Técnico de Boas Práticas de Fabricação para Estabelecimentos Produtores/Industrializadores de Frutas e ou Hortaliças em Conserva e a Lista de Verificação das Boas Práticas de Fabricação para Estabelecimentos Produtores/ Industrializadores de Frutas e ou Hortaliças em Conserva.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000352&seqAto=000&valorAno=2002&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 139,
+          "titulo": "VIGENTEInstrução Normativa Conjunta - INC nº 9, de 12/11/2002 \nEstabelece requisitos para o acondicionamento, manuseio e comercialização de produtos hortícolas \"in natura\" em embalagens próprias, visando à proteção, conservação e integridade desses produtos, além de regulamentar as informações obrigatórias de marcação ou rotulagem quanto às indicações quantitativas e qualitativas. Determina que as embalagens devem permitir empilhamento adequado, serem mantidas íntegras e higienizadas, e estar de acordo com as Boas Práticas de Fabricação e normas higiênico-sanitárias. Dispõe sobre a identificação obrigatória do fabricante ou fornecedor de embalagens. Define as competências dos órgãos envolvidos para verificação de informações relativas à classificação do produto, higiene e indicação quantitativa das embalagens.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INC&numeroAto=00000009&seqAto=000&valorAno=2002&orgao=SARC/ANVISA&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 140,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 275, de 21/10/2002\nDispõe sobre o Regulamento Técnico de Procedimentos Operacionais Padronizados aplicados aos Estabelecimentos Produtores/Industrializadores de Alimentos e a Lista de Verificação das Boas Práticas de Fabricação em Estabelecimentos Produtores/Industrializadores de Alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000275&seqAto=000&valorAno=2002&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 141,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 218, de 01/08/2002\nAprova o Regulamento Técnico sobre Tripas Sintéticas de Celulose Regenerada em Contato com Alimentos constante do anexo desta Resolução.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000218&seqAto=000&valorAno=2002&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 142,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução - RE nº 1, de 25/01/2002\nEstabelece limites para a presença de etanol em produtos polivitamínicos destinados ao uso pediátrico e adulto, mantém a proibição de etanol em fortificantes e complementos de ferro, e determina prazos para adequação de fórmulas de produtos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RES&numeroAto=00000001&seqAto=000&valorAno=2002&orgao=RE/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 143,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 146, de 06/08/2001\nAprova o processo de deposição de camada interna de carbono amorfo em garrafas de polietileno tereftalato (PET) virgem via plasma, destinadas a entrar em contato com alimentos dos tipos de I a VI, da temperatura de congelamento à temperatura ambiente por tempo prolongado, e temperatura máxima de processamento do alimento de 121ºC.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000146&seqAto=000&valorAno=2001&orgao=RDC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 144,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 124, de 19/06/2001\nAprova o Regulamento Técnico sobre Preparados Formadores de Películas a base de Polímeros e/ou Resinas destinados ao revestimento de Alimentos, constante do Anexo desta Resolução.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000124&seqAto=000&valorAno=2001&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 145,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 123, de 19/06/2001\nAprova o Regulamento Técnico sobre Embalagens e Equipamentos Elastoméricos em Contato com Alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000123&seqAto=000&valorAno=2001&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 146,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 122, de 19/06/2001\nAprova o Regulamento Técnico sobre Ceras e Parafinas em Contato com Alimentos, constante do anexo desta Resolução.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000122&seqAto=000&valorAno=2001&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 147,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 91, de 11/05/2001 (*)\nAprova o Regulamento Técnico - Critérios Gerais e Classificação de Materiais para Embalagens e Equipamentos em Contato com Alimentos constante do Anexo desta Resolução.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000091&seqAto=000&valorAno=2001&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 148,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 21, de 26/01/2001\nAprova o Regulamento Técnico para Irradiação de Alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000021&seqAto=002&valorAno=2001&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 149,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 028, de 28/03/2000\nDispõe sobre os procedimentos básicos de Boas Práticas de Fabricação em estabelecimentos beneficiadores de sal destinado ao consumo humano e o roteiro de inspeção sanitária em indústrias beneficiadoras de sal.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000028&seqAto=002&valorAno=2000&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 150,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 07, de 27/01/2000\nDispõe sobre a emissão do Certificado de Boas Práticas de Fabricação e Controle para fins de Autorização para Exportação de palmito em conserva para o Brasil.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000007&seqAto=002&valorAno=2000&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 151,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução - RES nº 18, de 30/04/1999 (*)\nAprova o regulamento técnico que estabelece as diretrizes básicas para análise e comprovação de propriedades funcionais e ou de saúde alegadas em rotulagem de alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RES&numeroAto=00000018&seqAto=000&valorAno=1999&orgao=ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 152,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 18, de 19/11/1999\nRepublica a Resolução nº 363, de 29 de julho de 1999, que trata do processo de industrialização e comercialização de palmitos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000018&seqAto=000&valorAno=1999&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 153,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução - RE nº 105, de 19/05/1999 (*)\nAprova regulamentos técnicos para embalagens e equipamentos plásticos em contato com alimentos, estabelece listas positivas de polímeros, resinas e aditivos, define critérios de migração e determina prazos para adequação das empresas.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RES&numeroAto=00000105&seqAto=000&valorAno=1999&orgao=ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 154,
+          "titulo": "VIGENTEPortaria - PRT nº 987, de 08/12/1998\nAprova o Regulamento Técnico para embalagens descartáveis de polietileno tereftalato - PET - multicamada destinadas ao acondicionamento de bebidas não alcóolicas carbonatadas",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=POR&numeroAto=00000987&seqAto=000&valorAno=1998&orgao=SVS/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 155,
+          "titulo": "VIGENTEPortaria - PRT nº 0326, de 30/07/1997 \nAprova o Regulamento Técnico: Condições Higiênico-Sanitárias e de Boas Práticas de Fabricação para Estabelecimentos Produtores/lndustrializadores de Alimentos, conforme Anexo I.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=POR&numeroAto=00000326&seqAto=000&valorAno=1997&orgao=SVS/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 156,
+          "titulo": "VIGENTE COM ALTERAÇÕESPortaria - PRT nº 27, de 18/03/1996 \nAprova o regulamento técnico sobre embalagens e equipamentos de vidro e cerâmica em contato com alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=POR&numeroAto=00000027&seqAto=000&valorAno=1996&orgao=SVS/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 157,
+          "titulo": "VIGENTEResolução - RE nº 0147, de 15/12/1994 \nSolicita ao Excelentíssimo Senhor Ministro da Saúde que providencie as medidas necessárias no sentido de que seja Inserido em lodos os recipientes, que contenham bebidas com mais 40 0.5 grau de álcool etílico, o seguinte alerta à população; 'O ÁLCOOL PODE CAUSAR DEPENDÊNCIA E, EM EXCESSO, É PREJUDICIAL A SAÚDE\".",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RES&numeroAto=00000147&seqAto=000&valorAno=1994&orgao=CNS/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 158,
+          "titulo": "VIGENTEPortaria - PRT nº 1428, de 26/11/1993 \nAprova o Regulamento Técnico para Inspeção Sanitária de Alimentos, as Diretrizes para o Estabelecimento de Boas Práticas de Produção e de Prestação de Serviços na Área de Alimentos e o Regulamento Técnico para o Estabelecimento de Padrões de Identidade e Qualidade (PIQ's) para Serviços e Produtos na Área de Alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=POR&numeroAto=00001428&seqAto=000&valorAno=1993&orgao=MS&cod_modulo=310&cod_menu=9431"
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "COSMÉTICOS",
+      "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=310&cod_menu=9431&letra=COSM%C9TICOS&co_tematica=23835688",
+      "total_resenhas": 47,
+      "resenhas": [
+        {
+          "numero": 1,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada Anvisa nº 995, de 30/10/2025\nAltera o Anexo da Resolução da Diretoria Colegiada - RDC nº 529, de 4 de agosto de 2021, que dispõe sobre a lista de substâncias que não podem ser utilizadas em produtos de higiene pessoal, cosméticos e perfumes.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000995&seqAto=000&valorAno=2025&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 2,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 966, de 26/02/2025\nAltera a Resolução da Diretoria Colegiada - RDC nº 949, de 12 de dezembro de 2024.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000966&seqAto=000&valorAno=2025&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 3,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 965, de 26/02/2025\nAltera a Resolução da Diretoria Colegiada - RDC nº 951, de 13 de dezembro de 2024.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000965&seqAto=000&valorAno=2025&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 4,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 951, de 13/12/2024\nDispõe sobre os procedimentos para a migração das regularizações de produtos de higiene pessoal, cosméticos, perfumes e descartáveis isentos de registro do Sistema de Automação Eletrônico de Cosméticos SGAS para o sistema de peticionamento Solicita/Datavisa.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000951&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 5,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 949, de 12/12/2024\nAltera a Resolução da Diretoria Colegiada - RDC nº 907, de 19 de setembro de 2024, e internaliza a Resolução GMC MERCOSUL nº 18/2023.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000949&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 6,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 907, de 19/09/2024\nDispõe sobre a definição, a classificação, os requisitos técnicos para rotulagem e embalagem, os parâmetros para controle microbiológico, bem como os requisitos técnicos e procedimentos para a regularização de produtos de higiene pessoal, cosméticos e perfumes.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000907&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 7,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 906, de 19/09/2024\nDispõe sobre os procedimentos e requisitos para a regularização de produtos cosméticos para alisar ou ondular os cabelos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000906&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 8,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 903, de 06/09/2024\nDispõe sobre os procedimentos para a transferência de titularidade de registro de produtos sujeitos à vigilância sanitária, transferência global de responsabilidade sobre ensaio clínico e atualização de dados cadastrais relativos ao funcionamento e certificação de empresas, em decorrência de operações societárias ou operações comerciais.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000903&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 9,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 902, de 06/09/2024\nDispõe sobre a inclusão de declaração sobre nova fórmula na rotulagem de produtos sujeitos à vigilância sanitária quando da alteração de sua composição.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000902&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 10,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 898, de 28/08/2024\nDispõe sobre a obrigatoriedade de descrever a composição em português na rotulagem de produtos de higiene pessoal, cosméticos e perfumes.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000898&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 11,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 894, de 27/08/2024\nDispõe sobre as Boas Práticas de Cosmetovigilância para as empresas titulares da regularização de produtos cosméticos junto à Agência Nacional de Vigilância Sanitária (Anvisa).",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000894&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 12,
+          "titulo": "CADUCO (A)Resolução da Diretoria Colegiada - RDC nº 893, de 26/08/2024\nProrroga a vigência da Resolução da Diretoria Colegiada nº 865, de 10 de maio de 2024.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000893&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 13,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 814, de 01/09/2023\nEstabelece as condições temporárias para a regularização, comercialização e uso de produtos destinados a fixar e/ou modelar os cabelos e altera a Resolução de Diretoria Colegiada - RDC nº 752, de 19 de setembro de 2022.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000814&seqAto=000&valorAno=2023&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 14,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 806, de 03/08/2023\nAltera a Resolução de Diretoria Colegiada - RDC Nº 530, de 4 de agosto de 2021, para fins de internalização da Resolução GMC MERCOSUL nº 35/22.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000806&seqAto=000&valorAno=2023&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 15,
+          "titulo": "VIGENTEInstrução Normativa - IN nº 242, de 04/08/2023 \nDispõe sobre a inclusão de declaração de nova fórmula na rotulagem de produtos de higiene pessoal, incluindo descartáveis, cosméticos e perfumes quando da modificação de fórmula.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000242&seqAto=000&valorAno=2023&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 16,
+          "titulo": "VIGENTEInstrução Normativa - IN nº 220, de 13/04/2023 \nEstabelece a \"Lista de ativos permitidos em produtos cosméticos para alisar ou ondular os cabelos\" com requisitos para seu uso, nos termos da Resolução de Diretoria Colegiada - RDC n° 409, de 27 de julho de 2020, e revoga a Instrução Normativa - IN nº 124, de 24 de março de 2022.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000220&seqAto=000&valorAno=2023&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 17,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 772, de 26/12/2022\nDispõe sobre o procedimento simplificado para mudanças pós-registro de produtos de higiene pessoal, cosméticos e perfumes.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000772&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 18,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 691, de 13/05/2022\nDispõe sobre a industrialização, exposição à venda ou entrega ao consumo, em todas as suas fases, do álcool etílico hidratado em todas as graduações e do álcool etílico anidro, como produto destinado a limpeza de superfície, desinfecção e antissepsia da pele ou substância.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000691&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 19,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 645, de 24/03/2022\nDispõe sobre as condições de uso do acetato de chumbo, formaldeído, paraformaldeído e pirogalol e internaliza a Resolução GMC MERCOSUL n° 48/2010.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000645&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 20,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 644, de 24/03/2022\nEstabelece regras gerais para os produtos de higiene pessoal, cosméticos e perfumes fabricados no Brasil e destinados exclusivamente à exportação.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000644&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 21,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 643, de 24/03/2022\nEstabelece definições e requisitos técnicos de cosméticos relacionados ao bronzeamento da pele, bem como advertência de rotulagem para os ativadores/aceleradores de bronzeado.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000643&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 22,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 642, de 24/03/2022\nDispõe sobre os critérios para inclusão, exclusão e alteração de concentração de substâncias utilizadas em produtos de higiene pessoal, cosméticos e perfumes em listas e internaliza a Resolução GMC MERCOSUL nº 133/96.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000642&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 23,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 640, de 24/03/2022\nDispõe sobre a regularização de produtos de higiene pessoal descartáveis destinados ao asseio corporal, que compreendem escovas e hastes para higiene bucal, fios e fitas dentais, absorventes higiênicos descartáveis, coletores menstruais e hastes flexíveis.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000640&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 24,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 639, de 24/03/2022\nDispõe sobre os requisitos técnicos para a regularização de produtos de higiene pessoal, cosméticos e perfumes infantis.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000639&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 25,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 638, de 24/03/2022\nDispõe sobre o enquadramento dos produtos contendo mentol como medicamentos, produtos para saúde ou produtos de higiene pessoal, cosméticos e perfumes.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000638&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 26,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 629, de 10/03/2022\nDispõe sobre protetores solares e produtos multifucionais em cosméticos e internaliza a Resolução GMC MERCOSUL nº 08/2011.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000629&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 27,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 628, de 10/03/2022\nDispõe sobre a lista de substâncias corantes permitidas para produtos de higiene pessoal, cosméticos e perfumes e internaliza a Resolução GMC MERCOSUL nº 16/2012.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000628&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 28,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 600, de 09/02/2022\nDispõe sobre a lista de filtros ultravioletas permitidos para produtos de higiene pessoal, cosméticos e perfumes e internaliza a Resolução GMC MERCOSUL nº 44/2015, alterada pela Resolução GMC MERCOSUL nº 14/2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000600&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 29,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 553, de 30/08/2021\nDispõe sobre o registro de produtos utilizados no procedimento de pigmentação artificial permanente da pele.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000553&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 30,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 530, de 04/08/2021\nDispõe sobre a lista de substâncias que os produtos de higiene pessoal, cosméticos e perfumes não devem conter exceto nas condições, e com as restrições estabelecidas, a lista de componentes de fragrâncias e aromas que devem ser indicados na rotulagem desses produtos em condições específicas e internaliza a Resolução GMC MERCOSUL nº 24/11, alterada pela Resolução GMC MERCOSUL nº 37/20.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000530&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 31,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 529, de 04/08/2021\nDispõe sobre a lista de substâncias que não podem ser utilizadas em produtos de higiene pessoal, cosméticos e perfumes e internaliza a Resolução GMC MERCOSUL nº 62/14, alterada pela Resolução GMC MERCOSUL nº 37/20.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000529&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 32,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 528, de 04/08/2021\nDispõe sobre a lista de substâncias de ação conservante permitidas para produtos de higiene pessoal, cosméticos e perfumes e internaliza a Resolução GMC MERCOSUL nº 35/20.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000528&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 33,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 513, de 27/05/2021\nDispõe sobre a melhora da técnica legislativa das normas inferiores a Decreto editadas pela Agência Nacional de Vigilância Sanitária - ANVISA, componentes da terceira etapa de consolidação em observância ao que prevê a Portaria nº 201/GADIPDP/ ANVISA, de 20 de fevereiro de 2020, e o Decreto nº 10.139, de 28 de novembro de 2019.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000513&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 34,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 250, de 21/11/2018\nDispõe sobre os requisitos para apresentação do Projeto de Arte de Etiqueta ou Rotulagem no processo de regularização de produtos de higiene pessoal, cosméticos e perfumes, e para a coexistência de mais de uma arte de etiqueta ou rotulagem para um mesmo produto.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000250&seqAto=000&valorAno=2018&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 35,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 212, de 22/01/2018\nAltera a Resolução da Diretoria Colegiada - RDC nº 250, de 20 de outubro de 2004, que dispõe sobre os procedimentos relacionados à revalidação de registro de produtos e dá outras providências.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000212&seqAto=000&valorAno=2018&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 36,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 40, de 01/08/2014\nAltera a Resolução da Direitoria Colegiada n° 16, de 1º de abril de 2014, que Dispõe sobre os Critérios para Peticionamento de Autorização de Funcionamento (AFE) e Autorização Especial (AE) de Empresas.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000040&seqAto=000&valorAno=2014&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 37,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 49, de 31/10/2013\nDispõe sobre a regularização para o exercício de atividade de interesse sanitário do microempreendedor individual, do empreendimento familiar rural e do empreendimento econômico solidário e dá outras providências.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000049&seqAto=000&valorAno=2013&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 38,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 48, de 25/10/2013\nAprova o Regulamento Técnico de Boas Práticas de Fabricação para Produtos de Higiene Pessoal, Cosméticos e Perfumes, e dá outras providências.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000048&seqAto=000&valorAno=2013&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 39,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 19, de 10/04/2013\nDispõe sobre os requisitos técnicos para a concessão de registro de produtos cosméticos repelentes de insetos e dá outras providências.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000019&seqAto=000&valorAno=2013&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 40,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 42, de 25/10/2010\nDispõe sobre a obrigatoriedade de disponibilização de preparação alcoólica para fricção antisséptica das mãos, pelos serviços de saúde do País, e dá outras providências.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000042&seqAto=002&valorAno=2010&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 41,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 36, de 17/06/2009\nDispõe sobre a proibida a exposição, a venda e a entrega ao consumo de formol ou de formaldeído (solução a 37%) em drogaria, farmácia, supermercado, armazém e empório, loja de conveniência e drugstore.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000036&seqAto=000&valorAno=2009&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 42,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 176, de 21/09/2006\nAprova o Regulamento Técnico “Contratação de Terceirização para Produtos de Higiene Pessoal, Cosméticos e Perfumes”.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000176&seqAto=002&valorAno=2006&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 43,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 108, de 27/04/2005\nAprova o regulamento técnico e diretrizes de boas práticas para empresas que fracionam produtos de higiene pessoal, cosméticos e perfumes com venda direta ao consumidor, e estabelece requisitos de licenciamento e inspeção.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000108&seqAto=000&valorAno=2005&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 44,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 250, de 20/10/2004\nEstabelece procedimentos e prazos para a revalidação de registros de produtos na Anvisa, define efeitos dos atos de registro e revalidação, e critérios para contagem de prazos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000250&seqAto=000&valorAno=2004&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 45,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 074, de 07/08/2000\nAprova o \"Programa de Capacitação de Inspetores em Boas Práticas de Fabricação e Controle para a Indústria de Produtos de Higiene Pessoal, Cosméticos e Perfumes\".",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000074&seqAto=002&valorAno=2000&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 46,
+          "titulo": "VIGENTEPortaria - PRT nº 296, de 16/04/1998\nEstabelece que, para efeito de Registro ou de Alteração de Registro de Produtos de Higiene Pessoal, Cosméticos e Perfumes, deve ser adotada, complementarmente à nomenclatura original, as nomenclaturas mencionadas",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=POR&numeroAto=00000296&seqAto=000&valorAno=1998&orgao=SVS/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 47,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 35, de 07/08/2015\nDispõe sobre a aceitação dos métodos alternativos de experimentação animal reconhecidos pelo Conselho Nacional de Controle de Experimentação Animal - Concea.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000035&seqAto=000&valorAno=2015&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "DISPOSITIVOS MÉDICOS",
+      "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=310&cod_menu=9431&letra=DISPOSITIVOS%20M%C9DICOS&co_tematica=24891705",
+      "total_resenhas": 50,
+      "resenhas": [
+        {
+          "numero": 1,
+          "titulo": "VIGENTEInstrução Normativa Anvisa nº 426, de 13/02/2026\nEstabelece os requisitos para transmissão e gestão da base de dados sobre Identificação Única de Dispositivos Médicos - UDI em atendimento à Resolução da Diretoria Colegiada nº 591, de 21 de dezembro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000426&seqAto=000&valorAno=2026&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 2,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada Anvisa nº 996, de 31/10/2025\nDispõe sobre o enquadramento como dispositivo médico, para fins de regularização sanitária, de produtos à base de cloreto de sódio na forma de pó para preparo de soluções e soluções de cloreto de sódio a 0,9% para lavagem da cavidade nasal.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000996&seqAto=000&valorAno=2025&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 3,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 937, de 14/11/2024\nAltera a Resolução da Diretoria Colegiada - RDC nº 192, de 28 de junho de 2002.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000937&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 4,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 924, de 19/09/2024 (*)\nDispõe sobre a padronização de frases de declaração de conteúdo de látex de borracha natural em rótulos de dispositivos médicos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000924&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 5,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 923, de 19/09/2024 (*)\nDispõe sobre os agentes clareadores dentais classificados como dispositivos médicos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000923&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 6,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 925, de 19/09/2024\nDispõe sobre requisitos para fabricação, comercialização, importação e exposição ao uso de dispositivos médicos personalizados.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000925&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 7,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 922 de 19/09/2024\nProíbe em todo o território nacional a fabricação, importação e comercialização, assim como o uso em serviços de saúde, dos termômetros e esfigmomanômetros com coluna de mercúrio.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000922&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 8,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 921, de 19/09/2024\nEstabelece as regras para o registro de dispositivos para diagnóstico in vitro como dispositivo de autoteste para o HIV - Vírus da Imunodeficiência Humana, para fins de triagem.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000921&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 9,
+          "titulo": "VIGENTEInstrução Normativa - IN nº 321, de 19/09/2024 \nDispõe sobre os procedimentos de inspeção em Boas Práticas Clínicas para Ensaios Clínicos com Dispositivos Médicos em Investigação.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000321&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 10,
+          "titulo": "VIGENTEInstrução Normativa - IN nº 320, de 19/09/2024 \nRegulamenta o parágrafo único do art. 3º da Resolução da Diretoria Colegiada - RDC nº 830 de 6 de dezembro de 2023 e estabelece os agrupamentos de famílias permitidos para regularização de dispositivos médicos para diagnóstico in vitro.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000320&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 11,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 908, de 19/09/2024\nDispõe sobre os requisitos sanitários dos bicos, chupetas e mamadeiras.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000908&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 12,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 903, de 06/09/2024\nDispõe sobre os procedimentos para a transferência de titularidade de registro de produtos sujeitos à vigilância sanitária, transferência global de responsabilidade sobre ensaio clínico e atualização de dados cadastrais relativos ao funcionamento e certificação de empresas, em decorrência de operações societárias ou operações comerciais.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000903&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 13,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 902, de 06/09/2024\nDispõe sobre a inclusão de declaração sobre nova fórmula na rotulagem de produtos sujeitos à vigilância sanitária quando da alteração de sua composição.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000902&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 14,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 884, de 26/06/2024\nAltera a Resolução da Diretoria Colegiada RDC nº 591, de 21 de dezembro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000884&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 15,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 879, de 28/05/2024\nProíbe em todo o território nacional a fabricação, importação e comercialização, assim como o uso em serviços de saúde, do mercúrio e do pó para liga de amálgama não encapsulado indicados para uso em Odontologia.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000879&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 16,
+          "titulo": "VIGENTEInstrução Normativa - IN nº 290, de 04/04/2024 \nEstabelece, nos termos da Resolução da Diretoria Colegiada - RDC nº 741, de 10 de agosto de 2022, procedimento otimizado para fins de análise e decisão de petições de registro de dispositivos médicos, por meio do aproveitamento de análises realizadas por Autoridade Reguladora Estrangeira Equivalente (AREE).",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000290&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 17,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 848, de 06/03/2024\nDispõe sobre os requisitos essenciais de segurança e desempenho aplicáveis aos dispositivos médicos e dispositivos médicos para diagnóstico in vitro (IVD).",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000848&seqAto=000&valorAno=2024&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 18,
+          "titulo": "VIGENTEInstrução Normativa - IN nº 283, de 07/03/2024 \nAprova a lista de Normas Técnicas para a certificação de conformidade dos equipamentos sob regime de Vigilância Sanitária.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000283&seqAto=000&valorAno=2024&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 19,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 837, de 13/12/2023\nDispõe sobre a realização de investigações clínicas com dispositivos médicos no Brasil.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000837&seqAto=000&valorAno=2023&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 20,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 830, de 06/12/2023\nDispõe sobre a classificação de risco, os regimes de notificação e de registro e os requisitos de rotulagem e instruções de uso de dispositivos médicos para diagnóstico in vitro, inclusive seus instrumentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000830&seqAto=000&valorAno=2023&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 21,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 825, de 26/10/2023\nEstabelece os requisitos mínimos de identidade e qualidade para as luvas cirúrgicas e luvas para procedimentos não cirúrgicos de borracha natural, de borracha sintética, de mistura de borrachas natural e sintética e de policloreto de vinila, sob regime de vigilância sanitária.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000825&seqAto=000&valorAno=2023&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 22,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 810, de 17/08/2023\nAltera a Resolução de Diretoria Colegiada - RDC nº 751, de 15 de setembro de 2022, que dispõe sobre a classificação de risco, os regimes de notificação e de registro, e os requisitos de rotulagem e instruções de uso de dispositivos médicos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000810&seqAto=000&valorAno=2023&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 23,
+          "titulo": "ALTERADORResolução da Diretoria Colegiada - RDC nº 777, de 01/03/2023\nAltera a Resolução de Diretoria Colegiada - RDC nº 751, de 15 de setembro de 2022, que dispõe sobre a classificação de risco, os regimes de notificação e de registro, e os requisitos de rotulagem e instruções de uso de dispositivos médicos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000777&seqAto=000&valorAno=2023&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 24,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 751, de 15/09/2022\nDispõe sobre a classificação de risco, os regimes de notificação e de registro, e os requisitos de rotulagem e instruções de uso de dispositivos médicos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000751&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 25,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 703, de 16/05/2022\nDispõe sobre detergentes enzimáticos de uso restrito em estabelecimentos de assistência à saúde com indicação para limpeza de dispositivos médicos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000703&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 26,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 687, de 13/05/2022\nDispõe sobre os critérios para a concessão ou renovação da Certificação de Boas Práticas de Fabricação de Dispositivos Médicos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000687&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 27,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 665, de 30/03/2022\nDispõe sobre as Boas Práticas de Fabricação de Produtos Médicos e Produtos para Diagnóstico de Uso In Vitro.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000665&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 28,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 657, de 24/03/2022\nDispõe sobre a regularização de software como dispositivo médico (Software as a Medical Device - SaMD).",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000657&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 29,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 649, de 24/03/2022\nEstabelece critérios e restrições para comercialização de produtos que possuam substâncias inalantes.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000649&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 30,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 638, de 24/03/2022\nDispõe sobre o enquadramento dos produtos contendo mentol como medicamentos, produtos para saúde ou produtos de higiene pessoal, cosméticos e perfumes.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000638&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 31,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 608, de 25/02/2022\nDispõe sobre o uso compassivo de dispositivos médicos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000608&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 32,
+          "titulo": "VIGENTEInstrução Normativa - IN nº 119, de 23/02/2022 \nDispõe sobre os atributos técnicos dos dispositivos médicos selecionados para monitoramento econômico pela Anvisa.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000119&seqAto=000&valorAno=2022&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 33,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 595, de 28/01/2022\nDispõe sobre os requisitos e procedimentos para a solicitação de registro, distribuição, comercialização e utilização de dispositivos médicos para diagnóstico in vitro como autoteste para detecção de antígeno do SARS-CoV-2, em consonância ao Plano Nacional de Expansão da Testagem para Covid-19 (PNE-Teste), e dá outras providências.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000595&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 34,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 594, de 28/12/2021\nDispõe sobre os requisitos para o agrupamento de materiais implantáveis em ortopedia para fins de registro e dá outras providências.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000594&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 35,
+          "titulo": "VIGENTE COM ALTERAÇÕESResolução da Diretoria Colegiada - RDC nº 591, de 21/12/2021\nDispõe sobre a identificação de dispositivos médicos regularizados na Anvisa, por meio do sistema de Identificação Única de Dispositivos Médicos (UDI).",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000591&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 36,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 579, de 25/11/2021\nDispõe sobre a importação, comercialização e doação de dispositivos médicos usados e recondicionados.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000579&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 37,
+          "titulo": "VIGENTEPortaria - PRT nº 0511, de 30/09/2021 \nDefine os critérios cronológicos para análise ou anuência dos processos de registro ou de notificação de produtos definidos como dispositivos médicos, no âmbito da Agência Nacional de Vigilância Sanitária.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=POR&numeroAto=00000511&seqAto=000&valorAno=2021&orgao=ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 38,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 556, de 30/08/2021\nDispõe sobre os requisitos para agrupamento de materiais de uso em saúde para fins de registro e notificação na Agência Nacional de Vigilância Sanitária e adota etiquetas de rastreabilidade para produtos implantáveis.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000556&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 39,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 555, de 30/08/2021\nDispõe sobre o enquadramento do \"Reagente Limulus Amebocyte Lysate (LAL)\" no Regulamento Técnico sobre produtos médicos - Resolução - RDC nº 185, de 22 de outubro de 2001.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000555&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 40,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 554, de 30/08/2021\nEstabelece os requisitos mínimos a que devem obedecer os Preservativos Masculinos de Látex de Borracha Natural.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000554&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 41,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 553, de 30/08/2021\nDispõe sobre o registro de produtos utilizados no procedimento de pigmentação artificial permanente da pele.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000553&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 42,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 552, de 30/08/2021\nDispõe sobre registro, fabricação, controle de qualidade, comercialização e uso de Dispositivo Intra-Uterino (DIU) contendo cobre.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000552&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 43,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 551, de 30/08/2021\nDispõe sobre a obrigatoriedade de execução e notificação de ações de campo por detentores de registro de produtos para a saúde no Brasil.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000551&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 44,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 550, de 30/08/2021\nEstabelece os requisitos mínimos de identidade e qualidade para implantes mamários e a exigência de certificação de conformidade do produto no âmbito do Sistema Brasileiro de Avaliação da Conformidade (SBAC).",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000550&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 45,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 549, de 30/08/2021\nDispõe sobre os procedimentos para certificação compulsória dos equipamentos sob regime de Vigilância Sanitária.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000549&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 46,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 545, de 30/08/2021\nDispõe sobre o protocolo eletrônico para emissão de Certificado de Produto (Certificado de Notificação ou Registro de Dispositivo Médico) e Certidão para Governo Estrangeiro (Certidão de Notificação ou Registro para Exportação de Dispositivo Médico).",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000545&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 47,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 544, de 30/08/2021\nDispõe sobre bolsas plásticas para coleta, armazenamento e transferência de sangue humano e seus componentes.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000544&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 48,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 543, de 30/08/2021\nEstende a aplicação da notificação de dispositivos médicos aos fios têxteis com propriedades térmicas, indicados para composição de vestimentas com efeitos terapêuticos, de embelezamento ou correção estética.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000543&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 49,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 542, de 30/08/2021\nDefine \"grupo de produtos\" aos quais se aplica o item 5.3 do Anexo II da Lei 9.782 de 26 de janeiro de 1999.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000542&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 50,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada - RDC nº 541, de 30/08/2021\nEstabelece os requisitos mínimos de identidade e qualidade para seringas hipodérmicas estéreis de uso único.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00000541&seqAto=000&valorAno=2021&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titulo": "FARMACOPEIA",
+      "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=310&cod_menu=9431&letra=FARMACOPEIA&co_tematica=24147764",
+      "total_resenhas": 0,
+      "resenhas": []
+    },
+    {
+      "numero": 6,
+      "titulo": "GESTÃO DO SNVS",
+      "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=310&cod_menu=9431&letra=GEST%C3O%20DO%20SNVS&co_tematica=22430209",
+      "total_resenhas": 0,
+      "resenhas": []
+    },
+    {
+      "numero": 7,
+      "titulo": "GESTÃO INTERNA",
+      "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=310&cod_menu=9431&letra=GEST%C3O%20INTERNA&co_tematica=24795966",
+      "total_resenhas": 0,
+      "resenhas": []
+    },
+    {
+      "numero": 8,
+      "titulo": "INSUMOS FARMACÊUTICOS",
+      "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=310&cod_menu=9431&letra=INSUMOS%20FARMAC%CAUTICOS&co_tematica=24781437",
+      "total_resenhas": 0,
+      "resenhas": []
+    },
+    {
+      "numero": 9,
+      "titulo": "LABORATÓRIOS ANALÍTICOS",
+      "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=310&cod_menu=9431&letra=LABORAT%D3RIOS%20ANAL%CDTICOS&co_tematica=21280854",
+      "total_resenhas": 0,
+      "resenhas": []
+    },
+    {
+      "numero": 10,
+      "titulo": "MEDICAMENTOS",
+      "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=310&cod_menu=9431&letra=MEDICAMENTOS&co_tematica=24954766",
+      "total_resenhas": 0,
+      "resenhas": []
+    },
+    {
+      "numero": 11,
+      "titulo": "PORTOS - AEROPORTOS",
+      "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=310&cod_menu=9431&letra=PORTOS%20-%20AEROPORTOS&co_tematica=24912597",
+      "total_resenhas": 0,
+      "resenhas": []
+    },
+    {
+      "numero": 12,
+      "titulo": "SANEANTES",
+      "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=310&cod_menu=9431&letra=SANEANTES&co_tematica=24147761",
+      "total_resenhas": 0,
+      "resenhas": []
+    },
+    {
+      "numero": 13,
+      "titulo": "SANGUE - TECIDOS - ÓRGÃOS",
+      "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=310&cod_menu=9431&letra=SANGUE%20-%20TECIDOS%20-%20%D3RG%C3OS&co_tematica=21280860",
+      "total_resenhas": 0,
+      "resenhas": []
+    },
+    {
+      "numero": 14,
+      "titulo": "SERVIÇOS DE SAÚDE",
+      "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=310&cod_menu=9431&letra=SERVI%C7OS%20DE%20SA%DADE&co_tematica=24068916",
+      "total_resenhas": 0,
+      "resenhas": []
+    },
+    {
+      "numero": 15,
+      "titulo": "SERVIÇOS INTERESSE SAÚDE",
+      "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=310&cod_menu=9431&letra=SERVI%C7OS%20INTERESSE%20SA%DADE&co_tematica=21266084",
+      "total_resenhas": 0,
+      "resenhas": []
+    },
+    {
+      "numero": 16,
+      "titulo": "TABACO",
+      "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=310&cod_menu=9431&letra=TABACO&co_tematica=22867372",
+      "total_resenhas": 0,
+      "resenhas": []
+    },
+    {
+      "numero": 17,
+      "titulo": "TEMAS TRANSVERSAIS",
+      "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=310&cod_menu=9431&letra=TEMAS%20TRANSVERSAIS&co_tematica=24957495",
+      "total_resenhas": 0,
+      "resenhas": []
+    },
+    {
+      "numero": 18,
+      "titulo": "BAIXAR PLANILHA REGULATÓRIA",
+      "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=310&cod_menu=9431&letra=Baixar%20Planilha%20Regulat%F3ria&co_tematica=21397242",
+      "total_resenhas": 0,
+      "resenhas": []
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "data_extracao": "2026-04-15 20:44:09",
+  "total_categorias": 18,
+  "total_resenhas": 7,
+  "categorias": [
+    {
+      "numero": 1,
+      "titulo": "AGROTÓXICOS",
+      "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=310&cod_menu=9431&letra=AGROT%D3XICOS&co_tematica=24954850",
+      "total_resenhas": 5,
+      "resenhas": [
+        {
+          "numero": 1,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 437, de 08/04/2026\nDispõe sobre a alteração de monografias de ingredientes ativos na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000437&seqAto=000&valorAno=2026&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 2,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 434, de 02/04/2026\nDispõe sobre a alteração de monografia na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000434&seqAto=000&valorAno=2026&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 3,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 425, de 11/02/2026\nDispõe sobre a inclusão da Monografia do ingrediente ativo E35 - Eucalyptus Globulus na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000425&seqAto=000&valorAno=2026&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 4,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 424, de 11/02/2026\nDispõe sobre a alteração da Monografia do ingrediente ativo A72 - Ácido Nonanoico na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000424&seqAto=000&valorAno=2026&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 5,
+          "titulo": "ALTERADORInstrução Normativa Anvisa nº 423, de 11/02/2026\nDispõe sobre a inclusão da Monografia do ingrediente ativo O24 - Ocimum Gratissimum na Relação de Ingredientes Ativos de Agrotóxicos, Saneantes Desinfestantes e Preservativos de Madeira, publicada por meio da Instrução Normativa - IN n° 103, de 19 de outubro de 2021.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000423&seqAto=000&valorAno=2026&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "ALIMENTOS",
+      "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=310&cod_menu=9431&letra=ALIMENTOS&co_tematica=24954706",
+      "total_resenhas": 2,
+      "resenhas": [
+        {
+          "numero": 1,
+          "titulo": "VIGENTEResolução da Diretoria Colegiada Anvisa nº 1.020, de 02/04/2026\nDispõe sobre os requisitos sanitários aplicáveis aos silicones utilizados em materiais, embalagens, revestimentos e equipamentos destinados a entrar em contato com alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=RDC&numeroAto=00001020&seqAto=000&valorAno=2026&orgao=RDC/DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        },
+        {
+          "numero": 2,
+          "titulo": "VIGENTEInstrução Normativa Anvisa nº 435, de 02/04/2026\nEstabelece as definições, as listas de substâncias autorizadas e os métodos analíticos aplicáveis à elaboração de silicones utilizados em materiais, embalagens, revestimentos e equipamentos destinados a entrar em contato com alimentos.",
+          "href": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=INM&numeroAto=00000435&seqAto=000&valorAno=2026&orgao=DC/ANVISA/MS&cod_modulo=310&cod_menu=9431"
+        }
+     
+      ]
+    }
+  ]
+
+  }
