@@ -9,9 +9,9 @@ cd anvisa_ragflow_pipeline
 
 # Criar ambiente virtual (recomendado)
 python3 -m venv .venv
-source venv/bin/activate  # Linux/Mac
+source .venv/bin/activate  # Linux/Mac
 # ou
-venv\Scripts\activate  # Windows
+.venv\Scripts\activate  # Windows
 
 # Instalar dependências
 
