@@ -51,6 +51,18 @@ Agora: Executar python orquestrador.py
 Monitorar: tail -f logs/orquestrador.log  
 Verificar: Acessar http://localhost:9380 → Datasets → Documentos  
 
+
+VERSÃO CONFIGURARA  BAIXAR APENAS 7 PDF EM 2 CATEGORIAS
+
+Edite as linhas em extrair_atos_pdfs.py para download de todas os PDFs 
+``` 
+extrair_atos_pdfs.py
+linhas
+#173 def carregar_categorias_json(nome_arquivo='data/json/categorias.json'):#provisorio'data/json/atos_categorias.json'
+#367  dados_categorias = carregar_categorias_json('data/json/categorias.json') #provisorio'data/json/atos_categorias.json'
+```
+
+
 Status: ✅ Pronto para Execução  
 Tempo Total: ~2-5 horas  
 Complexidade: Média  
