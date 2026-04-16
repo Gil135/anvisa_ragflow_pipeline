@@ -1,4 +1,5 @@
 📋 Resumo Executivo - Pipeline ANVISA → RAGFlow  
+ 
 
 🎯 ObjetivoAutomatizar coleta, processamento e envio de documentos ANVISA para RAGFlow em 4 etapas.  
 
